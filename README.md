@@ -1,13 +1,23 @@
-### Olá! Eu sou o Wesley Batista ✌️
+# Olá! Eu sou o Wesley Batista ✌️
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-batista-27331621b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley_batista701/)
 
+## 🚀 Sobre Mim & Experiência
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleybatistaluz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleybatistaluz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Sou **Analytics Engineer** focado em transformar grandes volumes de dados em ativos estratégicos para o negócio. Tenho sólida experiência na construção de pipelines de dados (ELT) e na modelagem analítica utilizando a **arquitetura medalhão**.
+
+### 💼 Destaques na Math Group:
+Atuando em projetos de inteligência digital para grandes players do mercado financeiro (como **Genial Investimentos** e **Banco BV**), minhas principais responsabilidades incluem:
+* **Modelagem de Dados:** Estruturação de camadas Bronze, Silver e Gold utilizando **dbt** e **Google BigQuery**.
+* **Engenharia de Pipelines:** Desenvolvimento e automação de fluxos de dados com **Python** e SQL avançado.
+* **Otimização Analítica:** Criação e manutenção de dashboards de alta performance no **Power BI**, garantindo métricas precisas para a tomada de decisão.
+* **Metodologias Ágeis:** Atuação em squads utilizando Scrum e Kanban, com foco em entrega contínua e qualidade de dados.
 
 ---
+
+## 🎓 Formação Acadêmica
+* **Análise e Desenvolvimento de Sistemas** ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -29,14 +39,16 @@
   <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
-### 💻 Fullstack Development
+### ⚙️ Infra & Versão
 <div style="display: inline_block">
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img align="center" alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
 
 ---
+
+## 📈 Foco Atual:
+* 🏗️ Escalonamento de arquiteturas de dados em nuvem.
+* 🧪 Implementação de testes de qualidade de dados com dbt.
+* 🔄 Orquestração complexa de DAGs no Airflow.
