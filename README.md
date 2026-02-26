@@ -1,27 +1,30 @@
 # Olá! Eu sou o Wesley Batista ✌️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-batista-27331621b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley_batista701/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-batista-luz-27331621b)
+
 
 ## 🚀 Sobre Mim & Experiência
 
-Sou **Analytics Engineer** focado em transformar grandes volumes de dados em ativos estratégicos para o negócio. Tenho sólida experiência na construção de pipelines de dados (ELT) e na modelagem analítica utilizando a **arquitetura medalhão**.
+Sou <span translate="no">**Analytics Engineer**</span> e <span translate="no">**Data Engineer**</span> focado na criação de arquiteturas escaláveis e orquestração de fluxos que sustentam decisões estratégicas. Minha atuação une engenharia de dados aplicada com visão analítica para produtos de dados
 
-### 💼 Destaques na Math Group:
-Atuando em projetos de inteligência digital para grandes players do mercado financeiro (como **Genial Investimentos** e **Banco BV**), minhas principais responsabilidades incluem:
-* **Modelagem de Dados:** Estruturação de camadas Bronze, Silver e Gold utilizando **dbt** e **Google BigQuery**.
-* **Engenharia de Pipelines:** Desenvolvimento e automação de fluxos de dados com **Python** e SQL avançado.
-* **Otimização Analítica:** Criação e manutenção de dashboards de alta performance no **Power BI**, garantindo métricas precisas para a tomada de decisão.
-* **Metodologias Ágeis:** Atuação em squads utilizando Scrum e Kanban, com foco em entrega contínua e qualidade de dados.
+### [cite_start]💼 Atuação Profissional na <span translate="no">**MATH Group**</span>
+Como <span translate="no">**Analytics Engineer**</span>, atuo em projetos de inteligência digital para o setor financeiro:
+* **Orquestração de Dados:** Utilizo **Apache Airflow** para gerenciar dependências complexas entre tabelas fato de navegação e produtos analíticos.
+* **Pipelines & Transformação:** Estruturação de pipelines no **BigQuery** e **Databricks**, com implementações via **dbt** (<span translate="no">Data Build Tool</span>).
+* **Modelagem Avançada:** Desenvolvimento de modelos de atribuição (**Markov**) em **Python** para otimização de investimentos em mídia.
+* **Analytics & BI:** Desenvolvimento de dashboards executivos em **Power BI** (DAX) para monitoramento de KPIs e ROI em tempo real.
 
 ---
 
 ## 🎓 Formação Acadêmica
-* **Análise e Desenvolvimento de Sistemas** ---
+* **Sistemas de Informação** — <span translate="no">UNIFEI</span> (2023 – 2026).
+* **Engenharia Hídrica** — <span translate="no">UNIFEI</span> (Incompleto).
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 📊 Data Engineering & Analytics
+### 📊 <span translate="no">Data Engineering & Analytics</span>
 <div style="display: inline_block">
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,11 +35,11 @@ Atuando em projetos de inteligência digital para grandes players do mercado fin
   <img align="center" alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 </div>
 
-### 🤖 Machine Learning & Data Science
+### 🤖 <span translate="no">Machine Learning & Data Science</span>
 <div style="display: inline_block">
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img align="center" alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img align="center" alt="Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
 </div>
 
 ### ⚙️ Infra & Versão
@@ -48,7 +51,7 @@ Atuando em projetos de inteligência digital para grandes players do mercado fin
 
 ---
 
-## 📈 Foco Atual:
-* 🏗️ Escalonamento de arquiteturas de dados em nuvem.
-* 🧪 Implementação de testes de qualidade de dados com dbt.
-* 🔄 Orquestração complexa de DAGs no Airflow.
+## 📑 Projetos em Destaque
+* **Mapeamento de Jornadas (Jobs to be Done):** Estruturação de dados brutos para identificar gargalos de retenção em Apps Bancários.
+* **Modelo de Atribuição (Markov):** Algoritmo probabilístico em Python para mensurar impacto real de canais de mídia.
+* **Automação ETL de Retenção:** Consolidação de dados e criação de alertas de *churn*.
