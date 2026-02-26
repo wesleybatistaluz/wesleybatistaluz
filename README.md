@@ -7,7 +7,7 @@
 
 Sou <span translate="no">**Analytics Engineer**</span> e <span translate="no">**Data Engineer**</span> focado na criação de arquiteturas escaláveis e orquestração de fluxos que sustentam decisões estratégicas. Minha atuação une engenharia de dados aplicada com visão analítica para produtos de dados
 
-### [cite_start]💼 Atuação Profissional na <span translate="no">**MATH Group**</span>
+### 💼 Atuação Profissional na <span translate="no">**MATH Group**</span>
 Como <span translate="no">**Analytics Engineer**</span>, atuo em projetos de inteligência digital para o setor financeiro:
 * **Orquestração de Dados:** Utilizo **Apache Airflow** para gerenciar dependências complexas entre tabelas fato de navegação e produtos analíticos.
 * **Pipelines & Transformação:** Estruturação de pipelines no **BigQuery** e **Databricks**, com implementações via **dbt** (<span translate="no">Data Build Tool</span>).
